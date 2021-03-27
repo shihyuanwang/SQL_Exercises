@@ -1,6 +1,7 @@
 # SQL Exercises
 
-**1. Fiddle:** http://sqlfiddle.com/#!9/54feb2/18
+**1. Fiddle:** SQL Query Practice
+http://sqlfiddle.com/#!9/54feb2/18
 
 
 **2. Project: Students, Courses, and Instructors Relational Database**
