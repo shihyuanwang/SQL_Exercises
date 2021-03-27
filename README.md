@@ -2,9 +2,9 @@
 
 **1. Fiddle:** SQL Query Practice
 
-http://sqlfiddle.com/#!9/54feb2/18\
+http://sqlfiddle.com/#!9/54feb2/18
 
-
+\
 **2. Project: Students, Courses, and Instructors Relational Database**
 
 The following data model is designed to hold information relating to Students, Student Courses and Instructors who tutor students. 
