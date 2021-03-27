@@ -32,3 +32,6 @@ The design allows ~
 - a Course allowing one or more Students enrolled in it.
 - a student may be in contact with the Course Tutor many times using many different forms of contact.  
 - an instructor can connect with many contacts involving many Students
+
+https://github.com/shihyuanwang/SQL_Exercises/blob/main/Students%2C%20Courses%2C%20and%20Instructors%20Relational%20Database.sql
+
