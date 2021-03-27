@@ -1,9 +1,9 @@
 # SQL Exercises
 
-1. Fiddle: http://sqlfiddle.com/#!9/54feb2/18
+**1. Fiddle:** http://sqlfiddle.com/#!9/54feb2/18
 
 
-2. Project : Students, Courses, and Instructors
+**2. Project: ** Students, Courses, and Instructors
 
 The following data model is designed to hold information relating to Students, Student Courses and Instructors who tutor students. 
 
